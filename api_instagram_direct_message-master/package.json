@@ -14,7 +14,7 @@
     "express": "~4.16.1",
     "express-ejs-layouts": "^2.5.0",
     "http-errors": "~1.6.3",
-    "instagram-private-api": "^0.10.1",
+    "instagram-private-api": "^1.45.3",
     "lodash": "^4.17.11",
     "morgan": "~1.9.1",
     "pg": "^7.11.0",
